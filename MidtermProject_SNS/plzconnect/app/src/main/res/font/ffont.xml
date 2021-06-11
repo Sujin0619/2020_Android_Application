@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+        android:fontStyle="normal"
+        android:font="@font/billabong"/>
+
+    <font
+        android:fontStyle="normal"
+        android:font="@font/gillsans"/>
+
+    <font
+        android:fontStyle="normal"
+        android:font="@font/gillsansb"/>
+
+    <font
+        android:fontStyle="normal"
+        android:font="@font/gillsansl"/>
+
+</font-family>

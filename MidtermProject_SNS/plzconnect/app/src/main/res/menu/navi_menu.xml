@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/FullName"
+            android:icon="@drawable/ic_person"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:title="FullName"
+            />
+        <item
+            android:id="@+id/Birthday"
+            android:icon="@drawable/ic_date_range"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:title="Birthday"
+            />
+        <item
+            android:id="@+id/email"
+            android:icon="@drawable/ic_email"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:title="email"
+            />
+    </group>
+</menu>

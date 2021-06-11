@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dip"
+        android:text="TITLE"
+        android:textColor="#0A0A0B"
+        android:textSize="20dip"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TITLE"
+        android:textSize="15dip" />
+
+    <ImageView
+        android:id="@+id/ImageView01"
+        android:layout_width="200dip"
+        android:layout_height="200dip"
+        android:layout_gravity="center_vertical|center" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/TextView03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:paddingRight="10dip"
+            android:text="TEXT3"
+            android:textColor="#2196F3"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/TextView05"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:paddingRight="4dip"
+            android:text="TEXT4"
+            android:textColor="#090909"
+            android:textSize="20dip"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</LinearLayout>

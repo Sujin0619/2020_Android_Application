@@ -1,0 +1,2 @@
+rootProject.name='MyFirstSWPLab11'
+include ':app'
