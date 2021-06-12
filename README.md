@@ -22,12 +22,13 @@
 
 ### 5. Lab6_Multithreading
 #### pi의 값이 연속적으로 계산된다.
-
+![캡쳐](https://user-images.githubusercontent.com/80879131/121771797-9a642580-cbac-11eb-971e-9fa428c6ab79.png)
 
 
 ### 6. Lab7_Landscape
 #### 가로로 화면이 전환된다.
-
+![MyFirstSWPLab7](https://user-images.githubusercontent.com/80879131/121771801-a0f29d00-cbac-11eb-908c-652c0bfd25c9.png)
+![MyFirstSWPLab7(2)](https://user-images.githubusercontent.com/80879131/121771803-a2bc6080-cbac-11eb-9054-ae5702528e96.png)
 
 
 ### 7. Lab8_Search Movie omdbAPI
@@ -45,4 +46,6 @@
 
 
 ### 10. FinalProject_Shopping App
-
+![image](https://user-images.githubusercontent.com/80879131/121771853-f5961800-cbac-11eb-8918-2951da042c55.png)
+![image](https://user-images.githubusercontent.com/80879131/121771857-f9299f00-cbac-11eb-8ba0-b84ac5da21da.png)
+![image](https://user-images.githubusercontent.com/80879131/121771860-fd55bc80-cbac-11eb-8f58-1f1244fda27c.png)
